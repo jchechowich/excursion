@@ -9,11 +9,6 @@ h1 {
   color: white;
   text-align: center;
 }
-.link {
-  color: aquamarine;
-  font-size: 16px;
-  font-family: verdana;
-}
 .sub {
   color: gray;
   font-family: verdana;
@@ -24,4 +19,15 @@ h2 {
   font-weight: 300;
   font-family: verdana;
   font-size: 42px;
+}
+a {
+  color: aquamarine;
+  font-size: 16px;
+  font-family: verdana;
+}
+.© {
+  text-align: right;
+  color: gray;
+  font-family: verdana;
+  font-size: 21px;
 }
